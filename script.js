@@ -51,11 +51,10 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // Hamburger toggle
-const hamburger = document.getElementById('hamburger');
-const navLinks = document.getElementById('navLinks');
+// const hamburger = document.getElementById('hamburger');
+// const navLinks = document.getElementById('navLinks');
 
-hamburger.addEventListener('click', () => {
-  navLinks.classList.toggle('active');
-  // Optional: animate hamburger
-  hamburger.classList.toggle('open');
-});
+// hamburger.addEventListener('click', () => {
+//   navLinks.classList.toggle('active');
+//   hamburger.classList.toggle('open');
+// });
